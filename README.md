@@ -644,7 +644,7 @@ This file is a crucial component of the frontend's visual feedback system, contr
 ---
 ## 🚀 Getting Started
 
-### ☑️ Prerequisites
+### ☑️ Prerequisitess
 
 Before getting started with mern-chat-app, ensure your runtime environment meets the following requirements:
 
