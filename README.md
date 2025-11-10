@@ -765,12 +765,6 @@ Run mern-chat-app using the following command:
 
 This project is licensed under the MIT License and Free to use.
 
-## 📝 About the Author
-This project was developed by  me (**Pankil Soni**). Feel free to reach out with any questions or suggestions.
-- gmail - pmsoni2016@gmail.com
-- kaggle - https://www.kaggle.com/pankilsoni
-- LinkedIn - https://www.linkedin.com/in/pankil-soni-5a0541170/
-
 ## 🙌 Acknowledgments
 
 - List any resources, contributors, inspiration, etc. here.
